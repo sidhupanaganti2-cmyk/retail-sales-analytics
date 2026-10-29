@@ -1,0 +1,3 @@
+
+pandas\nnumpy\nmatplotlib\nseaborn\nopenpyxl\nrequests\n
+⋮⋮⋮⋮
